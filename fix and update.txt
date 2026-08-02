@@ -1,0 +1,23 @@
+fix and update:
+
+
+
+
+
+1st, 2nd image - can see the text because the background color is white, copy the 5th image color.
+
+3rd image - if the buyer use gcash it must have an information of whos gcash receiver used(personal,business acc) and who will be the sender, with serial, code. RequirementDescriptionStore Account InfoClear display of Bank Name, Account Number, and Account Name.Reference TaggingForcing customers to include Order # in bank transfer notes.Receipt CaptureFile uploader / Camera capture for transaction slips.Cashier Verification QueueDashboard badge showing pending bank transfers needing manual review.Driver Payment GateDriver app option to flag whether funds were verified before handing over auto parts.
+
+4th image - for driver mode, driver will use a tablet or mobile phones so add a mode for the driver  or automatic transform the layout to mobile if the driver used mobile or tablet.
+
+
+
+
+
+the receipt format fix and change it with the receipt i gave(invoice, delivery and packing list)
+
+
+
+
+
+and also on the employees status issue: Fatal error: Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in C:\xampp\htdocs\autosupply\save_user.php:20 Stack trace: #0 C:\xampp\htdocs\autosupply\save_user.php(20): mysqli->prepare('INSERT INTO use...') #1 {main} thrown in C:\xampp\htdocs\autosupply\save_user.php on line 20
